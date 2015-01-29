@@ -1,0 +1,25 @@
+{
+  "name": "AngularResourceResolver",
+  "version": "0.0.1",
+  "main": "dist/Angular-Resource-Resolver.js",
+  "ignore": [
+	"src",
+	"spec",
+	".bowerrc",
+	".gitignore",
+	".jshintignore",
+	".jshintrc",
+	".idea",
+	"reports",
+	"bower.json",
+	"gruntfile.js",
+	"package.json",
+	"node_modules",
+	"reports",
+	"bower_components"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
