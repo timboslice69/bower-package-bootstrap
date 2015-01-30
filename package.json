@@ -1,13 +1,13 @@
 {
-  "name": "MyAwesomeScript",
+  "name": "Bower-Package-Bootstrap",
   "version": "0.0.1",
-  "description": "An awesome script for awesomeness",
+  "description": "A bootstrap for building and testing bower packages",
   "main": " ",
   "scripts": {
     "test": "grunt test"
   },
   "keywords": [],
-  "author": "Timothy Scott - EGGS Design As",
+  "author": "Timothy Scott - EGGS Design",
   "license": "ISC",
   "devDependencies": {
     "grunt": "^0.4.5",

@@ -1,7 +1,7 @@
 {
-  "name": "AngularResourceResolver",
+  "name": "MyAwesomeBowerPackage",
   "version": "0.0.1",
-  "main": "dist/Angular-Resource-Resolver.js",
+  "main": "dist/MyAwesomeScript.js.js",
   "ignore": [
 	"src",
 	"spec",
